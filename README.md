@@ -3,6 +3,6 @@
 </details>
 <details><summary>Практика</summary>
 
-* [Импорты без модулей](./practice/importsWithoutModules/description.md)
+* [Импорты без модулей](./practice/importsWithoutModules/)
 
 </details>
