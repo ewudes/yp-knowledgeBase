@@ -4,5 +4,6 @@
 <details><summary>Практика</summary>
 
 * [Импорты без модулей](./practice/importsWithoutModules/)
+* [Раздача статики](./practice/servingStaticContent/)
 
 </details>
