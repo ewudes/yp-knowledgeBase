@@ -8,3 +8,4 @@
   * [First](./practice/first/)
   * [Range](./practice/range/)
   * [RangeRight](./practice/rangeRight/)
+  * [isEmpty](./practice/isEmpty/)
