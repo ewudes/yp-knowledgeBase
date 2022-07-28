@@ -1,9 +1,6 @@
-<details><summary>Алгоритмы</summary>
+* ### Алгоритмы ###
 
-</details>
-<details><summary>Практика</summary>
-
-* [Импорты без модулей](./practice/importsWithoutModules/)
-* [Раздача статики](./practice/servingStaticContent/)
-
-</details>
+* ### Практика ###
+  * [Импорты без модулей](./practice/importsWithoutModules/)
+  * [Раздача статики](./practice/servingStaticContent/)
+  * [Ответ с JSON и строкой](./practice/responseWithJsonAndString/)
