@@ -11,3 +11,4 @@
   * [isEmpty](./practice/isEmpty/)
   * [Namespace](./practice/namespace/)
   * [Реактивность](./practice/defineProperty/)
+  * [Tooltip](./practice/tooltip/)
