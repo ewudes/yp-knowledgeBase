@@ -9,3 +9,4 @@
   * [Range](./practice/range/)
   * [RangeRight](./practice/rangeRight/)
   * [isEmpty](./practice/isEmpty/)
+  * [Namespace](./practice/namespace/)
