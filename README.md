@@ -10,3 +10,4 @@
   * [RangeRight](./practice/rangeRight/)
   * [isEmpty](./practice/isEmpty/)
   * [Namespace](./practice/namespace/)
+  * [Реактивность](./practice/defineProperty/)
