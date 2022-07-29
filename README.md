@@ -9,6 +9,6 @@
   * [Range](./practice/range/)
   * [RangeRight](./practice/rangeRight/)
   * [isEmpty](./practice/isEmpty/)
-  * [Namespace](./practice/namespace/)
+  * [Пространство имён](./practice/namespace/)
   * [Реактивность](./practice/defineProperty/)
   * [Tooltip](./practice/tooltip/)
