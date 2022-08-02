@@ -14,3 +14,4 @@
   * [onClick и addEventListener](./practice/onClickAndAddEventListener/)
   * [Tooltip](./practice/tooltip/)
   * [EventBus](./practice/eventBus/)
+  * [Приватный Proxy](./practice/proxyProps/)
