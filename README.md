@@ -16,3 +16,4 @@
   * [EventBus](./practice/eventBus/)
   * [Приватный Proxy](./practice/proxyProps/)
   * [Собственный блок](./practice/block/)
+  * [Fetch](./practice/fetch/)
