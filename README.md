@@ -17,3 +17,4 @@
   * [Приватный Proxy](./practice/proxyProps/)
   * [Собственный блок](./practice/block/)
   * [Fetch](./practice/fetch/)
+  * [Fetch с подсчётом попыток](./practice/fetchWithCounter/)
