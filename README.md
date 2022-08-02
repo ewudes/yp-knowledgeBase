@@ -11,4 +11,5 @@
   * [isEmpty](./practice/isEmpty/)
   * [Пространство имён](./practice/namespace/)
   * [Реактивность](./practice/defineProperty/)
+  * [onClick и addEventListener](./practice/onClickAndAddEventListener/)
   * [Tooltip](./practice/tooltip/)
