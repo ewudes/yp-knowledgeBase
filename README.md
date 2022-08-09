@@ -23,3 +23,4 @@
   * [Set](./practice/set/)
   * [isEqual](./practice/isEqual/)
   * [cloneDeep](./practice/cloneDeep/)
+  * [queryString](./practice/queryString/)
