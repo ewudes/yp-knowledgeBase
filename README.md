@@ -20,3 +20,4 @@
   * [Fetch с подсчётом попыток](./practice/fetchWithCounter/)
   * [Trim](./practice/trim/)
   * [Merge](./practice/merge/)
+  * [Set](./practice/set/)
