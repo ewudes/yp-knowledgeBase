@@ -21,3 +21,4 @@
   * [Trim](./practice/trim/)
   * [Merge](./practice/merge/)
   * [Set](./practice/set/)
+  * [isEqual](./practice/isEqual/)
