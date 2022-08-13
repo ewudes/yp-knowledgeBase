@@ -24,3 +24,4 @@
   * [isEqual](./practice/isEqual/)
   * [cloneDeep](./practice/cloneDeep/)
   * [queryString](./practice/queryString/)
+  * [XSS-01-воспроизведение](./practice/xss-01/)
