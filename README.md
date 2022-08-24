@@ -26,3 +26,6 @@
   * [queryString](./practice/queryString/)
   * [XSS-01-воспроизведение](./practice/xss-01-playback/)
   * [XSS-01-устранение](./practice/xss-01-fixing/)
+
+* ### JS ###
+  * [Инверсия объекта](./js/invert/)
